@@ -1,5 +1,5 @@
 ﻿ServerId	ServerName	NodeIp	NodePort	LogicServerId	LogicServerName
-0	内测服务器	10.12.24.39	9001	1	DF
+0	内测服务器	120.25.196.233	9001	1	DF
 #1	青岛机房外网	119.167.157.239	9001	1	DF
 #2	云服	203.195.156.227	9001	1	DF
 #3	调优适配服	10.1.8.122	9001	1	DF
